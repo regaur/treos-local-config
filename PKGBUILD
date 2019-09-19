@@ -1,6 +1,6 @@
 # Maintainer: Jan Boelsche <jan@lagomorph.de>
 pkgname=treos-local-config
-pkgver=2.15.1
+pkgver=1.0.2
 pkgrel=1
 pkgdesc="Track station and apply configuration to local system"
 arch=('x86_64')
